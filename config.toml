@@ -1,6 +1,6 @@
 baseURL = "https://vickmagar.github.io/ProEngineer/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Product Engineer"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
